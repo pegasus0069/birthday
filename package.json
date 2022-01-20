@@ -1,0 +1,17 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Happy Birthday Noureen",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 2001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pegasus0069/birthday-wish.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Arnoy Khan"
+}
