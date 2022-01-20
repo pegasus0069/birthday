@@ -15,7 +15,9 @@ cd Birthday
 && 
 
 ```
-python -m SimpleHTTPServer --port  2001
+run the following code in terminal:
+
+python app.py
 ```
 
 visit http://localhost:2001 in your browser.
